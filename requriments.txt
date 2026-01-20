@@ -1,0 +1,11 @@
+pandas
+torch
+numpy
+scikit-learn
+torch 
+torchvision 
+torchaudio
+ipykernel
+streamlit 
+google-generativeai
+python-dotenv
